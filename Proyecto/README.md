@@ -1,3 +1,0 @@
-# Project
-
-Practica de Java
